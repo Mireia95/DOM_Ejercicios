@@ -43,6 +43,7 @@ const countries2 = [
   { title: 'Random title', imgUrl: 'https://picsum.photos/300/200?random=5' }
 ];
 
+
 for (const country of countries2) {
   const div = document.createElement('div');
   const h4 = document.createElement('h4');
